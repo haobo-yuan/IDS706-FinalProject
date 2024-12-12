@@ -17,7 +17,10 @@ This project implements a microservice using Flask to help users calculate their
 
 ![Project Roadmap](readme_components/drawio.png)
 
-## Youtube Demo
+## Youtube Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/efvi5y-yYYY/hqdefault.jpg)](https://youtu.be/efvi5y-yYYY)
+
 https://youtu.be/efvi5y-yYYY
 
 ## Quick View
@@ -128,16 +131,14 @@ pip install -r requirements.txt
 python src/app.py
 ```
 
-## Testing
+### Testing
 
 Run the unit tests with:
 ```bash
 pytest
 ```
 
----
-
-## Development Workflow
+### Development Workflow
 
 1. **Lint**: Ensure code quality with:
    ```bash
@@ -164,7 +165,7 @@ pytest
    make all
    ```
    
-## Containerization with Distroless
+### Containerization with Distroless
 
 ```bash
 docker build -t your-app:latest .
