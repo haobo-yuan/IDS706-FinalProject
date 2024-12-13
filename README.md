@@ -19,9 +19,7 @@ This project implements a microservice using Flask to help users calculate their
 
 ## Youtube Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/efvi5y-yYYY/hqdefault.jpg)](https://youtu.be/efvi5y-yYYY)
-
-https://youtu.be/efvi5y-yYYY
+https://youtu.be/41H_B97oDXY
 
 ## Quick View
 
